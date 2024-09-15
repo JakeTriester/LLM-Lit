@@ -3,6 +3,10 @@ LLM: ChatGPT-4o mini
 Question: How has the evolution of programming languages, from assembly languages (like MIPS), to high-level languages (like python), affected both software and hardware development?
 
 ## Concepts
+- Programming Language Evolution
+- Abstraction
+- Hardware Impact
+- Historical Shifts
 
 ## References
 - [Ceruzzi, A History of Modern Computing](https://books.google.com/books?hl=en&lr=&id=x1YESXanrgQC&oi=fnd&pg=PR5&dq=A+history+of+modern+computing&ots=ZL_Bpa3mX2&sig=dRs_74gJ-Qw5XPdx1FacKAw3OE8#v=onepage&q=A%20history%20of%20modern%20computing&f=false)
