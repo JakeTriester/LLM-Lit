@@ -1,5 +1,5 @@
-Name: Jake Triester
-LLM: ChatGPT-4o mini
+Name: Jake Triester<br>
+LLM: ChatGPT-4o mini<br>
 Question: How has the evolution of programming languages, from assembly languages (like MIPS), to high-level languages (like python), affected both software and hardware development?
 
 ## Concepts
